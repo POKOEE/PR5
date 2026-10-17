@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PasswordHasherLibrary/PasswordHasherLibrary.csproj" />
+  <Project Path="PR5/PR5.csproj" />
+</Solution>
